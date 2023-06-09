@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Julia",
+      "last_name": "Daser",
+      "email": "julia@buoy.studio"
+    },
+    {
+      "first_name": "Pee Pee",
+      "last_name": "Tunnel",
+      "email": "peepeea@buoy.studio",
+      "id": 4
+    }
+  ]
+}
